@@ -1,5 +1,5 @@
 
-[![cstyl's github stats](https://github-readme-stats.vercel.app/api?username=cstyl)](https://github.com/cstyl)
+[![cstyl's github stats](https://github-readme-stats.vercel.app/api?username=cstyl&include_all_commits=true&show_icons=true)](https://github.com/cstyl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstyl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
